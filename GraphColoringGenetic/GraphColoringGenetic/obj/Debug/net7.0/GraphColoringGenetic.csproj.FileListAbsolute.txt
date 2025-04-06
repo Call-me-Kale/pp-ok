@@ -1,0 +1,15 @@
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/bin/Debug/net7.0/GraphColoringGenetic
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/bin/Debug/net7.0/GraphColoringGenetic.deps.json
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/bin/Debug/net7.0/GraphColoringGenetic.runtimeconfig.json
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/bin/Debug/net7.0/GraphColoringGenetic.dll
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/bin/Debug/net7.0/GraphColoringGenetic.pdb
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/obj/Debug/net7.0/GraphColoringGenetic.csproj.AssemblyReference.cache
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/obj/Debug/net7.0/GraphColoringGenetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/obj/Debug/net7.0/GraphColoringGenetic.AssemblyInfoInputs.cache
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/obj/Debug/net7.0/GraphColoringGenetic.AssemblyInfo.cs
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/obj/Debug/net7.0/GraphColoringGenetic.csproj.CoreCompileInputs.cache
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/obj/Debug/net7.0/GraphColoringGenetic.dll
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/obj/Debug/net7.0/refint/GraphColoringGenetic.dll
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/obj/Debug/net7.0/GraphColoringGenetic.pdb
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/obj/Debug/net7.0/GraphColoringGenetic.genruntimeconfig.cache
+/Users/piotrkostecki/Documents/GitHub/pp-ok/GraphColoringGenetic/GraphColoringGenetic/obj/Debug/net7.0/ref/GraphColoringGenetic.dll
